@@ -1,4 +1,4 @@
-document.getElementById('special-section').addEventListener('event', function() {
+document.getElementById('smokeCanvas').addEventListener('event', function() {
 
 'use strict';
 
