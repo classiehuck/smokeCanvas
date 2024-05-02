@@ -1,3 +1,5 @@
+document.getElementById('special-section').addEventListener('event', function() {
+
 'use strict';
 
 // Mobile promo section
@@ -1620,3 +1622,4 @@ function hashCode (s) {
     }
     return hash;
 };
+    });
