@@ -1,3 +1,5 @@
+document.getElementById('special-section').addEventListener('event', function() {
+
 'use strict';
 
 // Mobile promo section
@@ -1619,4 +1621,4 @@ function hashCode (s) {
         hash |= 0; // Convert to 32bit integer
     }
     return hash;
-};
+});
